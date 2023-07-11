@@ -5,7 +5,7 @@
    background-color: blanchedalmond;
 }
 section{
-    margin-top: 150px;
+    margin-bottom: 100px;
 }
 
 .btn-primary{
@@ -46,6 +46,7 @@ section{
 
  .picture-container{
     display: flex;
+   
 
  }
 
@@ -79,6 +80,8 @@ section{
 }
 .insta-part-display{
     display: flex;
+    margin-left: 10px;
+    margin-right: 100px;
 }
 .Instagram-description{
     color: rgba(39, 39, 39, 0.60);
@@ -89,12 +92,13 @@ section{
     
 }
 .insta-part-display, div{
-        margin:10px;
+        margin:5px;
+     
 }
         /* this is my section five */
 .section-five-container{
    background-image: url('./flower asset/Rectangle\ 9.png'); 
-   margin-bottom: 300px;
+   margin-bottom: 100px;
    background-repeat: no-repeat;
 }
 .section-five{
@@ -120,4 +124,14 @@ section{
     background-color:white ;
     width: 250px;
     height: 35px;
+}
+            /* this is section of six */
+.footer-section{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 50px;
+}
+.color{
+    color: #E55473;
 }
