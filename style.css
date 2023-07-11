@@ -1,0 +1,123 @@
+.about{
+   display: flex;
+   justify-content: space-between;
+   /* position: fixed; */
+   background-color: blanchedalmond;
+}
+section{
+    margin-top: 150px;
+}
+
+.btn-primary{
+     margin: 10px ;
+     border-radius: 5px;
+     background-color: red;
+     text-align: center;
+     font-size: 30px;
+}
+.section-title{
+    margin: 50px;
+    display: flex;
+    text-align: center;
+    margin-top: 110px;
+    margin-left: 30px;
+    font-size: 40px;
+
+}
+
+.section-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 25px;
+    font-weight: 400;  
+
+}
+
+.picture{
+    width: 200px;
+    height:320px;
+    margin-right: 80px;
+}
+
+ /* this is the second sections of items are pending */
+
+ .features{
+    text-align: center;
+ }
+
+ .picture-container{
+    display: flex;
+
+ }
+
+ /* this is third part of section */
+.hot-deals{
+    display: flex;
+    background-color: cadetblue;
+}
+.hot-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    padding: 10px 40px 30px 20px ;
+}
+.hot-description{
+    color: #272727;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 20px ;
+}
+.hot-deals-picture{
+    padding: 80px 150px 80px 500px;
+    width: 318px;
+    height: 420px;
+} 
+/* this is fourth section items */
+.Instagram-section{
+    text-align: center;
+    gap: 20px;
+
+}
+.insta-part-display{
+    display: flex;
+}
+.Instagram-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+   
+    
+}
+.insta-part-display, div{
+        margin:10px;
+}
+        /* this is my section five */
+.section-five-container{
+   background-image: url('./flower asset/Rectangle\ 9.png'); 
+   margin-bottom: 300px;
+   background-repeat: no-repeat;
+}
+.section-five{
+    text-align: center;
+    margin-bottom: 100px;
+  
+}
+.local{
+    text-align: center;
+    padding-bottom: 100px;
+}
+.section-title-five{
+
+}
+.section-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.input{
+    background-color:white ;
+    width: 250px;
+    height: 35px;
+}
